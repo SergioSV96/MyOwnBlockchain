@@ -7,7 +7,7 @@
 + [Contributing](./CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
-You ever wonder how blockchain technologies work? In this project I'm going to be developing a simple Blockchain for scratch.
+You ever wonder how blockchain technologies work? In this project I'm going to be developing a simple Blockchain from scratch.
 
 ## Getting Started <a name = "getting_started"></a>
 Clone this project on your machine.
